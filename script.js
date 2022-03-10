@@ -1,7 +1,8 @@
 console.log('Hellow world');
 
 // Global variables
-var x = 5; let y = 10
+var x = 5
+let y = 10
 console.log('Före blocket: ', x, y);
 
 if( true ) {
