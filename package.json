@@ -1,0 +1,26 @@
+{
+  "name": "01-lesson",
+  "version": "1.0.0",
+  "description": "Introduktion till JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cm-net21-webbramverk/01-lesson.git"
+  },
+  "keywords": [
+    "javascript",
+    "prompt"
+  ],
+  "author": "David Andersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cm-net21-webbramverk/01-lesson/issues"
+  },
+  "homepage": "https://github.com/cm-net21-webbramverk/01-lesson#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
